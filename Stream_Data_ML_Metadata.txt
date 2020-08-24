@@ -1,0 +1,22 @@
+Metadata for EPA Synoptic Stream Data
+May 20, 2020
+--------------
+
+siteid - Unique site id for each sample site
+lat - Latitude in decimal degrees
+long - Longitude in decimal degrees
+ecoreg - Omernik Level I Ecoregion
+era - Sampling campaign for EPA National Aquatic Resource Surveys
+area - Catchment area (km2)
+doc - Dissolved organic carbon (mg L-1)
+no3 - Nitrate-N (mg L-1)
+tn - Total nitrogen (mg L-1)
+tp - Total phosphorus (ug L-1)
+temp - Mean annual temperature (C)
+precip - Mean annual precipitation (mm)
+elev - Elevation (m)
+forest - Forest cover (%)
+wetland - Wetland cover (%)
+urban - Urban cover (%)
+ag - Agriculture cover (%)
+roads - Road density
