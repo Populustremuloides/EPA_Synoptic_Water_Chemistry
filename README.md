@@ -4,4 +4,4 @@ Code and supporting data for an analysis of stream and lake chemistry data from 
 
 The code primarily runs 4 machine learning models on the data and compares feature importances and feature partial dependencies of those models.
 
-Special thanks to Rowan Cano for his help in staring the project.
+Special thanks to Gabriel Cano for his help in starting the project.
